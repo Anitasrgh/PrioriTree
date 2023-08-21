@@ -1,9 +1,3 @@
-//
-//  LocalNotification.swift
-//  ParaCha
-//
-//  Created by Anita Saragih on 25/05/23.
-//
 
 import Foundation
 import SwiftUI
